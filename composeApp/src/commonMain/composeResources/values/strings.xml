@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tatbeeq</string>
+    <string name="home">Home</string>
+    <string name="lang">Language</string>
+
+    <string name="search">Search</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="leave_review">Leave Review</string>
+    <string name="Website">Website</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="terms_use">Terms Of Use</string>
+    <string name="linkedin">Linked In</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system">System</string>
+    <string name="ar">عربي</string>
+    <string name="en">English</string>
+    <string name="appearance">Appearance</string>
+    <string name="app_version">Version: %1$s</string>
+    <string name="saved">Saved</string>
+    <string name="settings">Settings</string>
+    <string name="error_disk_full">Disk is full. Please free up some space.</string>
+    <string name="error_unknown">An unknown error occurred.</string>
+    <string name="error_corrupted">The data is corrupted and cannot be processed.</string>
+    <string name="error_io">Input/Output error occurred.</string>
+    <string name="error_io_common">A common IO error occurred.</string>
+    <string name="error_unknown_common">An unknown error occurred.</string>
+    <string name="error_request_timeout">The request has timed out. Please try again.</string>
+    <string name="error_unauthorized">You are not authorized to perform this action.</string>
+    <string name="error_wrong_email_username">The email or username is incorrect.</string>
+    <string name="error_wrong_password">The password is incorrect.</string>
+    <string name="error_client_error">There was a client error. Please check your request.</string>
+    <string name="error_conflict">There was a conflict with the current state of the resource.</string>
+    <string name="error_too_many_requests">Too many requests have been made. Please wait a moment and try again.</string>
+    <string name="error_no_network">No network connection. Please check your internet connection.</string>
+    <string name="error_payload_too_large">The payload is too large to process.</string>
+    <string name="error_server_error">A server error occurred. Please try again later.</string>
+    <string name="error_serialization_error">There was an error serializing the data.</string>
+    <string name="error_unknown_remote">An unknown remote error occurred.</string>
+</resources>

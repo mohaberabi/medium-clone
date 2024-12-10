@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">تطبيق</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="lang">Language</string>
+
+    <string name="search">بحث</string>
+    <string name="send_feedback">إبعت رأيك</string>
+    <string name="leave_review">سيب تقييم</string>
+    <string name="Website">الموقع الإلكتروني</string>
+    <string name="policy">سياسة الخصوصية</string>
+    <string name="terms_use">شروط الاستخدام</string>
+    <string name="linkedin">لينكد إن</string>
+    <string name="light">فاتح</string>
+    <string name="dark">داكن</string>
+    <string name="system">النظام</string>
+    <string name="ar">عربي</string>
+    <string name="en">إنجليزي</string>
+    <string name="app_version">الإصدار: %1$s</string>
+    <string name="saved">المحفوظ</string>
+    <string name="settings">الإعدادات</string>
+    <string name="error_disk_full">القرص مليان. فضّي شوية مساحة.</string>
+    <string name="error_unknown">حصل خطأ غير معروف.</string>
+    <string name="error_corrupted">البيانات مضروبة ومش ممكن تتعالج.</string>
+    <string name="error_io">حصل خطأ في الإدخال أو الإخراج.</string>
+    <string name="error_io_common">حصل خطأ شائع في الإدخال أو الإخراج.</string>
+    <string name="error_unknown_common">حصل خطأ غير معروف.</string>
+    <string name="error_request_timeout">الطلب أخد وقت كتير. حاول تاني.</string>
+    <string name="error_unauthorized">مش مسموحلك تعمل الحركة دي.</string>
+    <string name="error_wrong_email_username">الإيميل أو اسم المستخدم غلط.</string>
+    <string name="error_wrong_password">الباسورد غلط.</string>
+    <string name="error_client_error">في مشكلة في الطلب. راجع الطلب بتاعك.</string>
+    <string name="error_conflict">في تضارب مع حالة المورد الحالية.</string>
+    <string name="error_too_many_requests">عملت طلبات كتير. استنى شوية وحاول تاني.</string>
+    <string name="error_no_network">مفيش اتصال بالنت. تأكد من النت عندك.</string>
+    <string name="error_payload_too_large">البيانات كبيرة جدًا ومش ممكن تتعالج.</string>
+    <string name="error_server_error">حصل خطأ في السيرفر. حاول تاني بعدين.</string>
+    <string name="error_serialization_error">حصل خطأ في تحويل البيانات.</string>
+    <string name="error_unknown_remote">حصل خطأ غير معروف من السيرفر البعيد.</string>
+</resources>
